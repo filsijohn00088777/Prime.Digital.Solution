@@ -1,0 +1,57 @@
+.main{
+	width:1500PX;
+}.header{
+	width: 100px;
+	border-radius: 40%;
+	background-color:lightblue;
+	float: left;
+}.strong{
+	background-color: lightblue;
+	float: right;
+	
+}.link{
+	border-radius: 40%;
+}.dmca{
+	width: 300px;
+	height: 200px;
+	display: flex;
+
+}.d{
+	border: 5px solid red;
+	width: 300px;
+	text-align: center;
+	background-color: lightblue;
+	border-radius: 10px;
+	
+}.btn{
+	padding: 10px 20px;
+	transition: 0.2s;
+}.m{
+	
+	justify-content: space-between;
+	display: flex;
+	border:900PX ;
+	
+}
+
+.aaa{
+	width: 300px;
+	height: 200px;
+	border: 5px solid red;
+}.ul{
+	
+}.am{
+	display: block;
+	bottom: 0;
+}.wp{
+	width: 30px;
+}.f{
+	width: 30px;
+
+}.div{
+	width: 200px;
+	height: 50px;
+	display: flex;
+	justify-content: space-between;
+
+}
